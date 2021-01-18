@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <body>
+      <h1>링크</h1>
+      <p>버튼을누르시오</p>
+      <button onclick="document.location='https://www.youtube.com/?gl=KR'">
+        dfdf
+      </button>
+      <p><a href="https://www.youtube.com/?gl=KR">youtube</a></p>
+      <p><a href="#C4">Jump to Chapter 4</a></p>
+
+      <h2>Chapter 1</h2>
+      <p>This chapter explains ba bla bla</p>
+
+      <h2>Chapter 2</h2>
+      <p>This chapter explains ba bla bla</p>
+
+      <h2>Chapter 3</h2>
+      <p>This chapter explains ba bla bla</p>
+
+      <h2 id="C4">Chapter 4</h2>
+      <p>This chapter explains ba bla bla</p>
+
+      <img src="programming.gif" alt="tid" width="80" height="120" />
+
+      <a href="https://www.w3schools.com/html/html_classes.asp">
+        <img
+          src="https://www.w3schools.com/html/smiley.gif"
+          alt="df"
+          width="40"
+          height="80"
+      /></a>
+      <img
+        src="https://www.w3schools.com/html/workplace.jpg"
+        alt="work"
+        usemap="#workmap"
+        width="400"
+        height="600"
+      />
+      <map name="workmap">
+        <area
+          shape="rect"
+          coords="34,44,270,350"
+          alt="com"
+          href="https://www.w3schools.com/w3images/mac.jpg"
+          <area
+          shape="rect"
+          coords="290,172,333,250"
+          alt="phone"
+          href="https://www.w3schools.com/w3images/cellphone.jpg"
+          shape="rect"
+          coords="337,300,44"
+          alt="coffee"
+          href="https://www.w3schools.com/w3images/coffeehouse2.jpg"
+        />
+        <div
+          style="
+            background-image: url('http://www.w3schools.com/html/pic_mountain.jpg');
+          "
+        ></div>
+      </map>
+    </body>
+  </head>
+</html>
